@@ -1,0 +1,5 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: plot/lists/* splits_prep/*.txt images/*.png images/*.gif images/transformed_space/*.png dataset/*.json splits_prep/fit_scale_from_bounding_boxes.log *Boxes/*.mat
+Copyright: 2017-2023 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later

@@ -1,0 +1,32 @@
+# Copyright (c) 2017-2023 Mitsubishi Electric Research Laboratories (MERL)
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+name: LUVLi
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - cython
+  - functools32
+  - future
+  - futures
+  - h5py
+  - imageio
+  - networkx
+  - nltk
+  - numba
+  - numexpr
+  - numpy
+  - opencv
+  - pandas
+  - pillow
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - seaborn
+  - six
+  - torchvision
+  - tqdm
+prefix: /home/abhinav/anaconda3/envs/py27
